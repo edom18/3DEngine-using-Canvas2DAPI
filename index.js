@@ -1897,8 +1897,8 @@
       create = function() {
         var ambLight, angle, container, cube1, cube2, cube3, dirLight, i, imgHtml5LogoURL, imgPhotoURL, imgURL, line, line1, line2, line3, materials1, materials2, materials3, onJsdoit, particle1, particle2, particle3, particle4, particle5, plate1, plate2, size, x, z, _i, _j, _loop, _ref1, _ref2;
         onJsdoit = document.domain === 'jsrun.it';
-        imgURL = !onJsdoit ? 'img/aXjiA.png' : 'http://jsrun.it/assets/y/r/A/V/yrAVl.jpg';
-        imgHtml5LogoURL = !onJsdoit ? 'img/HTML5_Logo_512.png' : 'http://jsrun.it/assets/z/1/2/9/z129U.png';
+        imgURL = !onJsdoit ? 'img/cover.png' : 'http://jsrun.it/assets/y/r/A/V/yrAVl.jpg';
+        imgHtml5LogoURL = !onJsdoit ? 'img/logo.png' : 'http://jsrun.it/assets/z/1/2/9/z129U.png';
         imgPhotoURL = !onJsdoit ? 'img/photo.jpg' : 'http://jsrun.it/assets/k/M/J/J/kMJJS.png';
         materials1 = [imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL, imgPhotoURL];
         materials2 = [video, video, video, video, video, video, video, video, video, video, video, video];
